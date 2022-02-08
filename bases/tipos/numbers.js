@@ -10,5 +10,5 @@
         console.log("Nos salvamos");
     }
     avengers = Number('123');
-    console.log({ avengers });
+    console.log(avengers);
 })();
