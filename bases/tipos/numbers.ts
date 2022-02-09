@@ -9,6 +9,6 @@
     }else{
         console.log("Nos salvamos")
     }
-    avengers = Number('123');
+    avengers = Number('123A');
     console.log(avengers)
     })()
