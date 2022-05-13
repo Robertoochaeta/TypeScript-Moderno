@@ -8,6 +8,6 @@
     console.log(`I'm ${batman} ${abc}`)
     console.log(batman.toUpperCase())
 
-    console.log(batman[10]?.toUpperCase() || 'No esta presente')
+    console.log(batman[11]?.toUpperCase() || 'No esta presente')
 
 })()
